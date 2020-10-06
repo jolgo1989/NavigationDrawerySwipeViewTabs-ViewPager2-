@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NvigationDrawerySwipeViewTabs</string>
+    <string name="menuitem1">menuItem1</string>
+    <string name="menuitem2">menuItem2</string>
+    <string name="menuitem3">menuItem3</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+</resources>
